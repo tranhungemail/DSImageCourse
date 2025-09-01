@@ -1,12 +1,12 @@
 [
   {"ten": "An",   "diem_toan": 85, "diem_van": 78, "diem_anh": 90, "diem_ly": 65},
-  {"ten": "Binh", "diem_toan": 70, "diem_van": 88, "diem_anh": "null", "diem_ly": 74},
-  {"ten": "Chi",  "diem_toan": 92, "diem_van": "null", "diem_anh": 80, "diem_ly": 100},
+  {"ten": "Binh", "diem_toan": 70, "diem_van": 88, "diem_anh": null, "diem_ly": 74},
+  {"ten": "Chi",  "diem_toan": 92, "diem_van": null, "diem_anh": 80, "diem_ly": 100},
   {"ten": "Dung", "diem_toan": 60, "diem_van": 72, "diem_anh": 85, "diem_ly": 90},
   {"ten": "Ha",   "diem_toan": 75, "diem_van": 95, "diem_anh": 78, "diem_ly": 82},
-  {"ten": "Hanh", "diem_toan": 88, "diem_van": 91, "diem_anh": 92, "diem_ly": "null"},
+  {"ten": "Hanh", "diem_toan": 88, "diem_van": 91, "diem_anh": 92, "diem_ly": null},
   {"ten": "Khanh","diem_toan": 55, "diem_van": 67, "diem_anh": 70, "diem_ly": 73},
-  {"ten": "Lan",  "diem_toan": 95, "diem_van": "null", "diem_anh": 88, "diem_ly": 97},
-  {"ten": "Minh", "diem_toan": 81, "diem_van": 76, "diem_anh": 84, "diem_ly": "null"},
+  {"ten": "Lan",  "diem_toan": 95, "diem_van": null, "diem_anh": 88, "diem_ly": 97},
+  {"ten": "Minh", "diem_toan": 81, "diem_van": 76, "diem_anh": 84, "diem_ly": null},
   {"ten": "Ngoc", "diem_toan": 100, "diem_van": 89, "diem_anh": 95, "diem_ly": 98}
 ]
